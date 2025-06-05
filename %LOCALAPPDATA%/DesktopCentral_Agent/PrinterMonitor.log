@@ -1,0 +1,47 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+05-06-2025	19:39:43.976	 INFO	 54500	 51344	DllMain	"DLL_PROCESS_ATTACH Fri Dec 13 05:38:52 2024 11.3.2416.32"
+05-06-2025	19:39:43.979	 INFO	 54500	 51344	DllMain	"PROCESS ATTACHED"
+05-06-2025	19:39:43.980	 INFO	 54500	 13296	LateInitialization	"Intialization..."
+05-06-2025	19:39:43.981	 INFO	 54500	 13296	LoadDisplayDevicesName	"DisplayDevices : "
+05-06-2025	19:39:43.982	 INFO	 54500	 13296	LoadDisplayDevicesName	"\\.\DISPLAY1"
+05-06-2025	19:39:43.983	 INFO	 54500	 13296	LoadDisplayDevicesName	"\\.\DISPLAY2"
+05-06-2025	19:39:43.984	 INFO	 54500	 13296	LoadDisplayDevicesName	"\\.\DISPLAY3"
+05-06-2025	19:39:43.986	 INFO	 54500	 13296	LoadDisplayDevicesName	"\\.\DISPLAY4"
+05-06-2025	19:39:43.989	ERROR	 54500	 13296	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+05-06-2025	19:39:43.990	 INFO	 54500	 13296	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 89226218
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+05-06-2025	19:39:43.990	 INFO	 54500	 13296	LateInitialization	"Intialization finished"
+05-06-2025	19:39:47.413	 INFO	 57988	 15172	DllMain	"DLL_PROCESS_ATTACH Fri Dec 13 05:38:52 2024 11.3.2416.32"
+05-06-2025	19:39:47.415	 INFO	 57988	 15172	DllMain	"PROCESS ATTACHED"
+05-06-2025	19:39:47.416	 INFO	 57988	 57744	LateInitialization	"Intialization..."
+05-06-2025	19:39:47.417	 INFO	 57988	 57744	LoadDisplayDevicesName	"DisplayDevices : "
+05-06-2025	19:39:47.418	 INFO	 57988	 57744	LoadDisplayDevicesName	"\\.\DISPLAY1"
+05-06-2025	19:39:47.419	 INFO	 57988	 57744	LoadDisplayDevicesName	"\\.\DISPLAY2"
+05-06-2025	19:39:47.420	 INFO	 57988	 57744	LoadDisplayDevicesName	"\\.\DISPLAY3"
+05-06-2025	19:39:47.421	 INFO	 57988	 57744	LoadDisplayDevicesName	"\\.\DISPLAY4"
+05-06-2025	19:39:47.424	ERROR	 57988	 57744	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+05-06-2025	19:39:47.425	 INFO	 57988	 57744	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\vim.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 89229656
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+05-06-2025	19:39:47.426	 INFO	 57988	 57744	LateInitialization	"Intialization finished"
